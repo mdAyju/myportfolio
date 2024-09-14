@@ -1,0 +1,15 @@
+.introimg{
+    height: 100vh;
+    position: absolute;
+    top: -4rem;
+    right: 0;
+
+}
+section{
+    overflow: hidden;
+    position: relative;
+    height: calc(100vh - 4rem);
+    width: 100vw;
+    max-width: 75rem;
+    margin: 0 auto;
+}
